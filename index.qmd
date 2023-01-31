@@ -1,0 +1,7 @@
+---
+title: "Welcome."
+---
+
+Hi! Welcome to my portfolio.
+
+![](DSC03110.jpg)
