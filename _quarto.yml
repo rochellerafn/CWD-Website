@@ -9,6 +9,12 @@ website:
         text: Home
       - about.qmd
       - projects.qmd
+    right:
+      - icon: github
+        href: https://github.com/rochellerafn
+      - icon: linkedin
+        href: https://linkedin.com/in/rochellerafn
+    
 
 format:
   html:
