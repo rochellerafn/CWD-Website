@@ -1,0 +1,12 @@
+---
+title: "Projects"
+---
+
+
+## Data Science & Analysis
+
+[![H&M Customer Age Analysis](image.jpeg)](h-and-m-project.qmd)
+
+## Branding
+
+[![Salem Orchestra Branding](Photo339-Copy1.jpg)](https://rochellerafn.com/portfolio/salem-orchestra)
